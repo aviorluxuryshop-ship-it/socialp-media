@@ -11,7 +11,7 @@
    Component classes live in @layer components so Tailwind utilities applied on
    the same element always win. Unlayered rules below are the ones that must
    beat utilities (base ground, motion primitives).
-   ========================================================================== */
+    */
 
 @theme {
   --color-ink: #08080a;
